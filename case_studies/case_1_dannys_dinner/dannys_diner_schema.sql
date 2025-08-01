@@ -1,6 +1,5 @@
 /*
 	Danny's Diner (SQL Schema)
-	SQL Author: Jaime M. Shaker
 	SQL Challenge Creator: Danny Ma (https://www.linkedin.com/in/datawithdanny/) (https://www.datawithdanny.com/)
 	SQL Challenge Location: https://8weeksqlchallenge.com/
 	
