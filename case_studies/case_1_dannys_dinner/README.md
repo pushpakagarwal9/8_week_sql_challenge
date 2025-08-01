@@ -1,10 +1,9 @@
 ## Danny's Diner
 ### SQL Case Study #1
 
-**Author**: Jaime M. Shaker <br />
-**Email**: jaime.m.shaker@gmail.com <br />
-**Website**: https://www.shaker.dev <br />
-**LinkedIn**: https://www.linkedin.com/in/jaime-shaker/  <br />
+**Author**: Pushpak Agarwal <br />
+**Email**: emailpushpak5@gmail.com <br />
+**LinkedIn**: https://www.linkedin.com/in/pushpakagarwal/  <br />
 
 :exclamation: If you find this repository helpful, please consider giving it a :star:. Thanks! :exclamation:
 
